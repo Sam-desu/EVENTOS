@@ -1,6 +1,6 @@
 # EVENT/OS — Event Management Front End (Version 4)
 
-A responsive, framework-free event management website with two **visually distinct** interfaces: an administrator workspace and a member-facing event discovery website. Version 4 adds three-field account registration without changing either dashboard layout.
+A responsive, framework-free event management website with two **visually distinct** interfaces: an administrator workspace and a member-facing event discovery website. Version 4 adds three-field account registration without changing either dashboard layout. 
 
 ## Open
 
